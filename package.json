@@ -1,0 +1,38 @@
+{
+  "name": "@firstclasspostcodes/osgb",
+  "version": "0.0.3",
+  "description": "Convert to/from WGS84 and OSGB coordinate systems",
+  "main": "lib/index.js",
+  "scripts": {
+    "commit": "npx git-cz",
+    "lint": "eslint .",
+    "run": "node lib/index.js",
+    "test": "cross-env NODE_ENV=test jest --passWithNoTests --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstclasspostcodes/osgb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firstclasspostcodes/osgb/issues"
+  },
+  "homepage": "https://github.com/firstclasspostcodes/osgb#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-angular": "^8.2.0",
+    "cross-env": "^6.0.3",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "git-cz": "^3.3.0",
+    "husky": "^3.1.0",
+    "jest": "^24.9.0",
+    "jest-runner-eslint": "^0.7.5"
+  },
+  "dependencies": {
+
+  }
+}
