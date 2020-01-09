@@ -1,6 +1,6 @@
 {
   "name": "@firstclasspostcodes/osgb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Convert to/from WGS84 and OSGB coordinate systems",
   "main": "lib/index.js",
   "scripts": {
@@ -32,7 +32,5 @@
     "jest": "^24.9.0",
     "jest-runner-eslint": "^0.7.5"
   },
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
