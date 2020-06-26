@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/firstclasspostcodes/osgb#readme",
   "devDependencies": {
-    "@commitlint/cli": "^8.2.0",
+    "@commitlint/cli": "^9.0.1",
     "@commitlint/config-angular": "^8.3.4",
     "cross-env": "^6.0.3",
     "eslint": "^6.7.1",
