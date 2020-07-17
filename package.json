@@ -22,7 +22,7 @@
   "homepage": "https://github.com/firstclasspostcodes/osgb#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
-    "@commitlint/config-angular": "^8.3.4",
+    "@commitlint/config-angular": "^9.1.1",
     "cross-env": "^6.0.3",
     "eslint": "^6.7.1",
     "eslint-config-airbnb-base": "^14.0.0",
